@@ -4,7 +4,7 @@
   "description": "A second look before your AI agent buys, sends, books, shares, signs up, or connects an app.",
   "title": "Agency Check",
   "repository": {
-    "url": "https://github.com/CyberStrategy1/agency-check-mcp",
+    "url": "https://github.com/CyberStrategy1/agency-check",
     "source": "github"
   },
   "version": "1.4.0",
