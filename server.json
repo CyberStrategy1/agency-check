@@ -1,0 +1,27 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.CyberStrategy1/agency-check",
+  "description": "A second look before your AI agent buys, sends, books, shares, signs up, or connects an app.",
+  "title": "Agency Check",
+  "repository": {
+    "url": "https://github.com/CyberStrategy1/agency-check-mcp",
+    "source": "github"
+  },
+  "version": "1.4.0",
+  "websiteUrl": "https://agency-check.app",
+  "icons": [
+    {
+      "src": "https://agency-check.app/icon-512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://agency-check.app/mcp"
+    }
+  ]
+}
